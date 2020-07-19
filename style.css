@@ -1,0 +1,22 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+}
+
+p {
+  font-size: 18px;
+}
+
+.winner_pick {
+  text-shadow: 5px 0 10px gold;
+  font-size: 38px;
+}
+/* 
+.first-body {
+  background-image: url(images/ludo-logo.jpg);
+  background-size: cover;
+  width: 100%;
+  height: 100vh;
+} */
